@@ -1,6 +1,6 @@
 Name:		texlive-tikz-swigs
 Version:	59889
-Release:	1
+Release:	2
 Summary:	Horizontally and vertically split elliptical nodes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-swigs
