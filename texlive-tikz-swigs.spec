@@ -3,7 +3,7 @@ Version:	59889
 Release:	2
 Summary:	Horizontally and vertically split elliptical nodes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-swigs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-swigs
 License:	lppl1.3c gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-swigs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-swigs.doc.r%{version}.tar.xz
